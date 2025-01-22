@@ -7,20 +7,23 @@ Certification:
 The course includes a certificate of completion, verified by Coursera and signed by Google's Global Director of Career Certificates.
 
 Verification Link:
+
 https://coursera.org/verify/VXH2YNSZCE6D
 
 
 
 2. software_engineer_intern certificate.
    
-   HackerRank. 
+   HackerRank.
+   
    Verification Link:
    
    https://www.hackerrank.com/certificates/801f1311b680
 
 4. python Basic.
 
-   HackerRank. 
+   HackerRank.
+   
    Verification Link:
    
    https://www.hackerrank.com/certificates/aa4a3507c666
