@@ -15,10 +15,12 @@ https://coursera.org/verify/VXH2YNSZCE6D
    
    HackerRank 
    Verification Link:
+   
    https://www.hackerrank.com/certificates/801f1311b680
 
 4. python Basic.
    
    HackerRank 
    Verification Link:
+   
    https://www.hackerrank.com/certificates/aa4a3507c666
