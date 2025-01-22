@@ -11,12 +11,14 @@ https://coursera.org/verify/VXH2YNSZCE6D
 
 
 
-2. software_engineer_intern certificate
+2. software_engineer_intern certificate.
+   
    HackerRank 
    Verification Link:
    https://www.hackerrank.com/certificates/801f1311b680
 
-3. python Basic
+4. python Basic.
+   
    HackerRank 
    Verification Link:
    https://www.hackerrank.com/certificates/aa4a3507c666
